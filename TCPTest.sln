@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPTest", "TCPTest\TCPTest.csproj", "{44582F69-454C-41D3-B4B9-326C7E3DC8A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP_ZedGraph_Test", "TCPTest\TCP_ZedGraph_Test.csproj", "{44582F69-454C-41D3-B4B9-326C7E3DC8A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
